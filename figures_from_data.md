@@ -70,6 +70,24 @@ Let's list what you have to understand at this point to continue:
 * Use Plotly's `simple_white` theme, I like it, it makes me happy and lenient.
 * Factor shared code into functions (see [function guide]).
 
+* Give your figures titles that overlap with the question:
+
+Q:
+
+> Show a line plot with error bars (stdev) of the price vs the year built, 
+  and in the same figure, with legend, price vs year renovated.
+
+Title:
+
+> Relationship price, year built and renovated
+
+* Give your figures axis titles and units:
+
+> Speed [m/s]
+
+* With multiple traces per figure, give descriptive legend names.
+* Group or discriminate data by using the color, markers or other properties.
+
 ## Exercises
 
 From here on out it's up to you (and Google) to find answers. Make the following
