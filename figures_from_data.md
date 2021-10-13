@@ -12,7 +12,7 @@ Not considering data curation (long term management of data) there will be a few
 ## Requirements
 
 * Working [development environment]
-* `pip install numpy scipy plotly`
+* `pip install numpy pandas scipy plotly`
 
 ## Practice datasets
 
