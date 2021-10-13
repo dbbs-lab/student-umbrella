@@ -82,4 +82,5 @@ exercises and send me your results!
 * Show a histogram of the distribution of `floors` in the dataset.
 * Show a line plot of the average price vs the amount of floors.
 * Show a line of the average price per floor vs the amount of floors.
-* Show a line plot with error bars (stdev) of the price  
+* Show a line plot with error bars (stdev) of the price vs the year built, 
+  and in the same figure, with legend, price vs year renovated.
