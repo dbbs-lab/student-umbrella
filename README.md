@@ -3,7 +3,7 @@ Students, don't let your enthousiasm get rained on. This umbrella will (soon) co
 
 ## Getting started
 
-Despite the announcement, the umbrella doesn't cover much yet, we're working on it whenever we have time. You can check out 
+You can check out 
 [this preliminary incomplete guide](https://github.com/dbbs-lab/student-umbrella/blob/main/figures_from_data.md) that concludes
 with a set of exercises to make figures from datasets. Please record all the steps you took to make things work, we can add them for other students.
 
