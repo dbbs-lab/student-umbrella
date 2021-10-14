@@ -11,7 +11,7 @@ Not considering data curation (long term management of data) there will be a few
 
 ## Requirements
 
-* Working [development environment]
+* Working [development environment](https://github.com/dbbs-lab/student-umbrella/blob/main/development_environment.md)
 * `pip install numpy pandas scipy plotly`
 
 ## Practice datasets
