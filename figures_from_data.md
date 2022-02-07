@@ -67,7 +67,7 @@ Let's list what you have to understand at this point to continue:
 
 * Use a search engine to find your answers (see [search guide])
 * If you encounter any errors, see the [error guide] to deal with them!
-* Use Plotly's `simple_white` theme, I like it, it makes me happy and lenient.
+* Plot with Plotly, and use the `simple_white` theme, I like it, it makes me happy and lenient 😇
 * Factor shared code into functions (see [function guide]).
 
 * Give your figures titles that overlap with the question:
@@ -83,7 +83,7 @@ Title:
 
 * Give your figures axis titles and units:
 
-> Speed [m/s]
+> Speed (m/s)
 
 * With multiple traces per figure, give descriptive legend names.
 * Group or discriminate data by using the color, markers or other properties.
