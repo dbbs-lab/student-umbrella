@@ -5,23 +5,26 @@ obtuse way that your code will be interpreted by the machine. In case of confusi
 interpret the question as literally as possible. The only restrictions to an answer are
 those set out by the question.
 
-Question: Create `5`
+**Question**: Create `5`
 
-Answer: `5`
+**Answer**: `5`
+
+---
 
 When the code "5" is executed in Python, the value `5` is created by Python, so the answer
 is correct. `1+1+1+1+1` is also correct. Clearly there exist a trivial set of solutions,
 give me either the shortest, or funniest, you can think of.
 
 Since we're doing these exercises for educational purposes, a clear exception is when the
-answer does not convincingly cover the question or demonstrate understanding of the matter:
+answer does not convincingly cover the question:
 
-Question: Give me the division of `3` by `1.5`
+**Question**: Give me the division of `3` by `1.5`
 
-Answer: `2`
+**Incorrect answer**: `2`
 
-Forgive me! 😇 I should have asked to "Use the division operator to give me the division
-of `3` by `1.5`"
+**Correct answer**: `3 / 1.5`
+
+---
 
 ## Solving exercises
 
