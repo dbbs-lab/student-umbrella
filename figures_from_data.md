@@ -39,7 +39,7 @@ import numpy as np
 file = "my_dataset.csv"
 column = "my_column"
 
-dataset = pd.readcsv(file)
+dataset = pd.read_csv(file)
 column_data = dataset[column]
 print("My dataset column has", len(column_data), "datapoints")
 ```
