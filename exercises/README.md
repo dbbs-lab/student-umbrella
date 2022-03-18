@@ -55,7 +55,15 @@ set([3])
 
 Some exercises are *instructions*, they end with a `.` and ought to be answered strictly
 in Python code, as above. Exercises that end with a question mark are *questions*, answer
-them as a comment:
+them as a comment.
+
+**Instruction:** Assign `5` to `x`
+
+**Answer:** `x = 5`
+
+**Question:** Can you write a limerick?
+
+**Answer:**
 
 ```python
 # A1:
