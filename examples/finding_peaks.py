@@ -4,7 +4,7 @@ import pickle
 import scipy.signal
 
 # Load the data from a saved file, we "know" it contains the time and membrane potential
-with open("golgi_traces.pkl", "rb") as g:
+with open("golgi_trace.pkl", "rb") as g:
     time, signal = pickle.load(g)
 
 # Find the big peaks in the signal
