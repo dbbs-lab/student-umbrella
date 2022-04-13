@@ -11,5 +11,6 @@ def get_total_df(df):
     immi_dict = {region: immi_data[i, :] for i, region in enumerate(region_names)}
     total_df = pd.DataFrame(immi_dict)
     total_df["years"] = years
+    return total_df
 
 df = get_total_df(data)
