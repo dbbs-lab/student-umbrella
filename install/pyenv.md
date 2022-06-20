@@ -63,4 +63,22 @@ pyenv local my-project
 ```
 
 You can check which version is active in the current directory with `pyenv version` or which
-versions exist with `pyenv versions`.
+versions exist with `pyenv versions`:
+
+```
+robin@TNG2019:~$ pyenv version
+3.9.1 (set by /home/robin/.pyenv/version)
+
+robin@TNG2019:~$ pyenv versions
+  system
+  2.7.18
+  2.7.18/envs/nrn-dev2
+  3.10.0
+  3.6.9
+  3.8.6
+  3.8.6/envs/bwpy
+  3.9.0
+* 3.9.1 (set by /home/robin/.pyenv/version)
+  3.9.1/envs/arb-cat
+  3.9.1/envs/arb-cat-new
+```
