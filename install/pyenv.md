@@ -26,6 +26,7 @@ a \
 echo 'eval "$(pyenv init --path)"' >>~/.profile
 
 echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+echo 'export PS1="($(pyenv version-name)) "$PS1' >> ~/.bashrc
 ```
 
 4. Close and reopen your WSL window, installation should be complete.
